@@ -22,7 +22,7 @@ This project uses computer vision and convolutional neural networks (CNNs) to cl
 - Real-time mask detection using webcam
 - High accuracy binary classification
 - Easily extendable to multi-class classification
-- 
+
 ## 📸 Sample Output
 ![image](https://github.com/user-attachments/assets/258058b6-7eeb-4d52-aaec-2e1d826b2147)
 ![image](https://github.com/user-attachments/assets/e4c227c6-fffc-4901-9c9b-ee3f5857eacb)
